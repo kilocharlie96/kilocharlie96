@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kilocharlie96
-- 👀 I’m interested in Java, SQL, HTML, CSS
-- 🌱 I’m currently learning Java and SQL on learn2code.sk
+- 👀 I’m interested in HTML, CSS, JS, Java
 - 📫 You can reach me via e-mail: cernak.kiko@gmail.com
 
 <!---
