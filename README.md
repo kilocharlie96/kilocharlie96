@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kilocharlie96
-- 👀 I’m interested in HTML, CSS, JS, Java
+- 👀 I’m interested in Java
 - 📫 You can reach me via e-mail: cernak.kiko@gmail.com
 
 <!---
