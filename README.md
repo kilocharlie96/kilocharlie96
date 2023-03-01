@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kilocharlie96
-- 👀 I’m interested in Java
-- 📫 You can reach me via e-mail: cernak.kiko@gmail.com
+## 👋 Hi, my name is Kristián Černák
+### 👀 Let me share a little bit of my training code with you
+### 📫 You can reach me via e-mail: cernak.kiko@gmail.com
 
 <!---
 kilocharlie96/kilocharlie96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
