@@ -1,5 +1,5 @@
 ## 👋 Hi, my name is Kristián Černák
-### 👀 Let me share a little bit of my training code with you
+### 👀 Let me share a little bit from my training projects with you
 ### 📫 You can reach me via e-mail: cernak.kiko@gmail.com
 
 <!---
