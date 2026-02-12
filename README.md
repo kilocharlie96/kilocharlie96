@@ -22,7 +22,7 @@ Let's talk! 📩 **cernak.kiko@gmail.com**
 
 **Other tools I've worked with:**
 * **Languages & Backend:** Java, PHP, MySQL
-* **Legacy/Libraries:** jQuery
+* **Legacy/Libraries:** jQuery, Bulma CSS
 
 > I have a solid foundation in these technologies and I am a quick learner when it comes to adopting new frameworks or deepening my knowledge in backend development.
 
@@ -39,11 +39,9 @@ Let's talk! 📩 **cernak.kiko@gmail.com**
 
 ---
 
-#### ✍️ [WebAmater](https://kilocharlie96.github.io/webamater/)
+#### 👨‍💼 [WebAmater](https://kilocharlie96.github.io/webamater/)
 *My very first web project, documenting my early coding journey and passion for technology.*
 
 * **Why it matters:** This project represents my path to programming. It demonstrates my solid foundation in "vanilla" coding and my drive to learn and grow as a developer.
-* **Tech Stack:** HTML5, CSS3, HTMX, jQuery, Bulma CSS
+* **Tech Stack:** HTML5, CSS3, JavaScript, jQuery
 * 🔗 [**Live Demo**](https://kilocharlie96.github.io/webamater/) | 📂 [**Source Code**](https://github.com/kilocharlie96/webamater)
-
----
