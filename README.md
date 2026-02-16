@@ -1,14 +1,12 @@
 # 👋 Kristián Černák
 
 🇸🇰
-### Junior Web Developer
-Hľadáte nového člena tímu alebo potrebujete vlastnú webstránku? 
+Hľadáte nového člena tímu, alebo potrebujete vlastnú webstránku? 
 Poďme sa dohodnúť! 📩 **cernak.kiko@gmail.com**
 
 ---
 
 🇬🇧
-### Junior Web Developer
 Looking for a new team member or need a custom website? 
 Let's talk! 📩 **cernak.kiko@gmail.com**
 
@@ -39,7 +37,7 @@ Let's talk! 📩 **cernak.kiko@gmail.com**
 
 ---
 
-#### 👨‍💼 [WebAmater](https://kilocharlie96.github.io/webamater/)
+#### ✍️ [WebAmater](https://kilocharlie96.github.io/webamater/)
 *My very first web project, documenting my early coding journey and passion for technology.*
 
 * **Why it matters:** This project represents my path to programming. It demonstrates my solid foundation in "vanilla" coding and my drive to learn and grow as a developer.
