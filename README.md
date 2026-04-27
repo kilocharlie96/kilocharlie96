@@ -1,11 +1,5 @@
 # 👋 Kristián Černák
 
-🇸🇰
-Hľadáte nového člena tímu, alebo potrebujete vlastnú webstránku? 
-Poďme sa dohodnúť! 📩 **cernak.kiko@gmail.com**
-
----
-
 🇬🇧
 Looking for a new team member or need a custom website? 
 Let's talk! 📩 **cernak.kiko@gmail.com**
@@ -15,7 +9,7 @@ Let's talk! 📩 **cernak.kiko@gmail.com**
 ### 🛠 Tech Stack
 
 **Current favorites & Active use:**
-* **Frontend:** HTML5, CSS3, Modern JavaScript (ES6+), Vue.js
+* **Frontend:** HTML5, CSS3, Modern JavaScript (ES6+), Vue.js, ReactJS
 * **Modern Tools:** HTMX
 
 **Other tools I've worked with:**
