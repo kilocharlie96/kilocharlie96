@@ -9,12 +9,12 @@ Let's talk! 📩 **cernak.kiko@gmail.com**
 ### 🛠 Tech Stack
 
 **Current favorites & Active use:**
-* **Frontend:** HTML5, CSS3, Modern JavaScript (ES6+), Vue.js, ReactJS
-* **Modern Tools:** HTMX
+* **Frontend:** HTML5, CSS3, Modern JavaScript (ES6+), Vue.js
+* **Backend:** Java, Spring Boot
 
 **Other tools I've worked with:**
-* **Languages & Backend:** Java, PHP, MySQL
-* **Legacy/Libraries:** jQuery, Bulma CSS
+* **Languages:** PHP, SQL
+* **Legacy/Libraries:** jQuery, Bulma CSS, React, HTMX
 
 > I have a solid foundation in these technologies and I am a quick learner when it comes to adopting new frameworks or deepening my knowledge in backend development.
 
