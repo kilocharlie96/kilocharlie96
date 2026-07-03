@@ -1,6 +1,5 @@
 # 👋 Kristián Černák
 
-🇬🇧
 Looking for a new team member or need a custom website? 
 Let's talk! 📩 **cernak.kiko@gmail.com**
 
